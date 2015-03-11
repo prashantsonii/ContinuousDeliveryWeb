@@ -25,7 +25,7 @@
   <distributionManagement>
     <snapshotRepository>
       <id>elm-repository</id>
-      <url>http://localhost:8080/nexus-2.11.2-03/content/repositories/elm-repository</url>
+      <url>http://localhost:9080/nexus/content/repositories/elm-repository</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
